@@ -5,7 +5,7 @@ Developed as part of the Senior Design Project (Class of 2025) in Computer Engin
 
 ---
 
-🚀 Overview
+## 🚀 Overview
 
 The Educational Speed Robot is an autonomous line-following vehicle designed to teach embedded control systems concepts such as:
 
