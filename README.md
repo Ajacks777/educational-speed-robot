@@ -64,7 +64,8 @@ The report includes:
 
 ---
 📸 Gallery
-
+[![Robot_with_cover](images/With_Cover.jpg)]
+[![Robot_with_cover](images/Without_Cover.jpg)]
 ---
 
 🧰 Tools & Technologies
